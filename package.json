@@ -1,5 +1,24 @@
 {
+<<<<<<< HEAD
   "dependencies": {
     "expo-location": "^18.0.8"
+=======
+  "name": "backend",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "mongoose": "^8.12.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+>>>>>>> 71e70785b04cf6e6a5830fd3a585d378572b1f68
   }
 }
